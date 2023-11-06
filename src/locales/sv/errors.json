@@ -1,0 +1,18 @@
+{
+	"checks": {
+		"devOnly": {
+			"title": "Hemliga saker",
+			"description": "Du måste vara en utvecklare av boten för att kunna köra detta kommando."
+		}
+	},
+	"language": {
+		"invalidLanguage": {
+			"title": "Ogiltigt språk",
+			"description": "Det är inte ett giltigt språk. "
+		}
+	},
+	"serverRequired": {
+		"title": "Server krävs",
+		"description": "Du måste köra detta kommando på en server."
+	}
+}
