@@ -1,0 +1,44 @@
+{
+  "name": "tako-bun",
+  "version": "0.0.1-alpha.3",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "commit": "cz",
+    "lint": "prettier --check . && eslint ./src --ext .ts --format=pretty",
+    "deploy": "bun src/util/deploy.ts",
+    "format": "prettier --write . && eslint ./src --ext .ts --fix --format=pretty",
+    "start": "bun src/index.ts",
+    "dev": "bunx nodemon --exec bun src/index.ts"
+  },
+  "dependencies": {
+    "@discordjs/core": "^1.0.1",
+    "@prisma/client": "5.4.2",
+    "discord.js": "^14.13.0",
+    "i18next": "^23.5.1",
+    "i18next-fs-backend": "^2.2.0",
+    "is-language-code": "^5.0.9",
+    "prisma": "^5.4.2",
+    "tslog": "^4.9.2",
+    "uwuifier": "^4.0.5"
+  },
+  "devDependencies": {
+    "@sapphire/ts-config": "^5.0.0",
+    "@types/node": "^20.8.6",
+    "bun-types": "^1.0.6",
+    "commitizen": "^4.3.0",
+    "cz-conventional-changelog": "^3.3.0",
+    "eslint": "^8.51.0",
+    "eslint-config-neon": "^0.1.57",
+    "eslint-formatter-pretty": "^5.0.0",
+    "typescript": "^5.2.2"
+  },
+  "nodemon": {
+    "ext": "js,mjs,cjs,json,ts"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}

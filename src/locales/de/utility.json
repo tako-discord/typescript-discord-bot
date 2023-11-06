@@ -1,0 +1,21 @@
+{
+	"changeLanguage": {
+		"name": "sprache-setzen",
+		"description": "Ändere die Sprache des Bots",
+		"personal": {
+			"name": "persönlich",
+			"description": "Ändern Sie die Sprache des Bots für dich selbst und persönliche Nachrichten"
+		},
+		"server": {
+			"name": "server",
+			"description": "Wechselt die Sprache des Bots für den gesamten Server"
+		},
+		"options": {
+			"language": {
+				"name": "sprache",
+				"description": "Die Sprache, die du für den Bot verwenden möchtest"
+			}
+		},
+		"response": "Die Sprache wurde erfolgreich zu `{{language}}` geändert"
+	}
+}

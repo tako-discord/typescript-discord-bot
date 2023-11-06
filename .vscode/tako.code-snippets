@@ -1,0 +1,19 @@
+{
+	"Slash Command Template": {
+		"scope": "javascript,typescript",
+		"body": [
+			"import { SlashCommandBuilder } from 'discord.js';",
+			"import type { Command } from '../index.ts';",
+			"",
+			"export default {",
+			"data: new SlashCommandBuilder()",
+			".setName('NAME')",
+			".setDescription('DESC')",
+			".toJSON(),",
+			"async execute(interaction) {},",
+			"} satisfies Command;"
+
+		],
+		"description": "Template for a slash command. Be sure to save after inserting, to format the code."
+	}
+}
