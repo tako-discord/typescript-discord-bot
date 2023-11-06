@@ -1,0 +1,18 @@
+{
+	"checks": {
+	  "devOnly": {
+		"title": "Cosas secretas",
+		"description": "Debes ser desarrollador del bot para poder ejecutar este comando."
+	  }
+	},
+	"language": {
+	  "invalidLanguage": {
+		"title": "Idioma no válido",
+		"description": "Ese no es un lenguaje válido. "
+	  }
+	},
+	"serverRequired": {
+	  "title": "Servidor requerido",
+	  "description": "Debe ejecutar este comando en un servidor."
+	}
+  }

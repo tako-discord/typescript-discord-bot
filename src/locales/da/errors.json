@@ -1,0 +1,18 @@
+{
+	"checks": {
+		"devOnly": {
+			"title": "Hemmelige ting",
+			"description": "Du skal være udvikler af botten for at kunne køre denne kommando."
+		}
+	},
+	"language": {
+		"invalidLanguage": {
+			"title": "Ugyldigt sprog",
+			"description": "Det er ikke et gyldigt sprog. "
+		}
+	},
+	"serverRequired": {
+		"title": "Server påkrævet",
+		"description": "Du skal køre denne kommando på en server."
+	}
+}
