@@ -1,0 +1,18 @@
+{
+	"checks": {
+		"devOnly": {
+			"title": "Trucs secrets",
+			"description": "Vous devez être reconnu comme développeur du bot afin d'exécuter cette commande."
+		}
+	},
+	"language": {
+		"invalidLanguage": {
+			"title": "Langue invalide",
+			"description": "Ce n'est pas un langage valdie. Merci de respecter le format \"`xx`\" (`en`, `fr`, etc.) ou \"`xx-XX`\" (`en-US`, `zh-CN`, etc.), \"`x`\" représentant une partie de votre code de langue."
+		}
+	},
+	"serverRequired": {
+		"title": "Serveur requis",
+		"description": "Vous devez exécuter cette commande dans un serveur."
+	}
+}
