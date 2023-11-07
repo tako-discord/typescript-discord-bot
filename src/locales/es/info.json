@@ -1,8 +1,0 @@
-{
-	"ping": {
-	  "name": "silbido",
-	  "description": "Hacer ping al robot",
-	  "title": "¡Apestar!",
-	  "response": "{{latency, number}}EM."
-	}
-  }

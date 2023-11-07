@@ -1,8 +1,0 @@
-{
-	"ping": {
-	  "name": "بينغ",
-	  "description": "اختبار اتصال الروبوت",
-	  "title": "بونغ!",
-	  "response": "{{latency, number}}آنسة."
-	}
-  }

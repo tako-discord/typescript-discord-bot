@@ -1,8 +1,0 @@
-{
-	"ping": {
-	  "name": "ping",
-	  "description": "Ping botten",
-	  "title": "Pong!",
-	  "response": "{{latency, number}}ms."
-	}
-  }

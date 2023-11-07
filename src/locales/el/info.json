@@ -1,8 +1,0 @@
-{
-	"ping": {
-	  "name": "ping",
-	  "description": "Κάντε ping στο bot",
-	  "title": "Πονγκ!",
-	  "response": "{{latency, number}}Κυρία."
-	}
-  }
