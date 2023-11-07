@@ -1,0 +1,21 @@
+{
+	"changeLanguage": {
+		"name": "set-språk",
+		"description": "Ändra språket för boten",
+		"personal": {
+			"name": "personlig",
+			"description": "Ändra språket för boten för dig själv och personliga meddelanden"
+		},
+		"server": {
+			"name": "server",
+			"description": "Ändra språket för boten för hela servern"
+		},
+		"options": {
+			"language": {
+				"name": "språk",
+				"description": "Språket du vill använda för boten"
+			}
+		},
+		"response": "Har ändrat språket till `{{language}}`"
+	}
+}
