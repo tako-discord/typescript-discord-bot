@@ -1,0 +1,8 @@
+{
+	"ping": {
+		"name": "пінг",
+		"description": "Проведіть пінг до бота",
+		"title": "Понг!",
+		"response": "{{latency, number}}РС."
+	}
+}

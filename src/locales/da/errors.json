@@ -8,7 +8,7 @@
 	"language": {
 		"invalidLanguage": {
 			"title": "Ugyldigt sprog",
-			"description": "Det er ikke et gyldigt sprog. "
+			"description": "Den er ikke et gyldigt sprog. Venligst følg formatet `xx` (`en`, `de`, osv.) eller `xx-XX` (`en-US`, `zh-CN`, osv.), hvor `x` repræsenterer en del af dit sprogskode."
 		}
 	},
 	"serverRequired": {

@@ -8,7 +8,7 @@
 	"language": {
 		"invalidLanguage": {
 			"title": "Ogiltigt språk",
-			"description": "Det är inte ett giltigt språk. "
+			"description": "Detta är inte ett giltigt språk. Vänligen följ formatet `xx` (`en`, `de`, osv.) eller `xx-XX` (`en-US`, `zh-CN`, osv.), där `x` representerar en del av ditt språkkod."
 		}
 	},
 	"serverRequired": {

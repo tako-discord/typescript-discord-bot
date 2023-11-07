@@ -1,0 +1,18 @@
+{
+	"checks": {
+		"devOnly": {
+			"title": "Geheime dingen",
+			"description": "U moet een ontwikkelaar van de bot zijn om deze opdracht uit te voeren."
+		}
+	},
+	"language": {
+		"invalidLanguage": {
+			"title": "Ongeldige taal",
+			"description": "Dit is geen geldige taal. Volg alstublieft het formaat `xx` (`en`, `de`, enz.) of `xx-XX` (`en-US`, `zh-CN`, enz.), waarbij `x` een deel van uw taalcode vertegenwoordigt."
+		}
+	},
+	"serverRequired": {
+		"title": "Server vereist",
+		"description": "U moet deze opdracht op een server uitvoeren."
+	}
+}
