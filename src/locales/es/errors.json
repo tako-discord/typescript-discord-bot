@@ -8,7 +8,7 @@
 	"language": {
 	  "invalidLanguage": {
 		"title": "Idioma no válido",
-		"description": "Ese no es un lenguaje válido. "
+		"description": "Eso no es un idioma válido. Por favor, siga el formato de `xx` (`en`, `de`, etc.) o `xx-XX` (`en-US`, `zh-CN`, etc.), donde `x` representa una parte de su código de idioma."
 	  }
 	},
 	"serverRequired": {

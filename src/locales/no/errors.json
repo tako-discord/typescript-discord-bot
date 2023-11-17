@@ -1,18 +1,18 @@
 {
 	"checks": {
-	  "devOnly": {
-		"title": "Hemmelige ting",
-		"description": "Du må være utvikler av boten for å kjøre denne kommandoen."
-	  }
+		"devOnly": {
+			"title": "Hemmelige ting",
+			"description": "Du må være utvikler av boten for å kjøre denne kommandoen."
+		}
 	},
 	"language": {
-	  "invalidLanguage": {
-		"title": "Ugyldig språk",
-		"description": "Det er ikke et gyldig språk. "
-	  }
+		"invalidLanguage": {
+			"title": "Ugyldig språk",
+			"description": "Dette er ikke et gyldig språk. Vennligst følg formatet `xx` (`en`, `de`, osv.) eller `xx-XX` (`en-US`, `zh-CN`, osv.), der `x` representerer en del av språkkoden din."
+		}
 	},
 	"serverRequired": {
-	  "title": "Server påkrevd",
-	  "description": "Du må kjøre denne kommandoen på en server."
+		"title": "Server påkrevd",
+		"description": "Du må kjøre denne kommandoen på en server."
 	}
-  }
+}
