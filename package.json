@@ -28,7 +28,7 @@
     "bun-types": "^1.0.6",
     "commitizen": "^4.3.0",
     "cz-conventional-changelog": "^3.3.0",
-    "eslint": "^8.51.0",
+    "eslint": "^9.4.0",
     "eslint-config-neon": "^0.1.57",
     "eslint-formatter-pretty": "^5.0.0",
     "typescript": "^5.2.2"
